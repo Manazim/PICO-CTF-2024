@@ -1,7 +1,10 @@
-# How about some hide and seek?
+
+## How about some hide and seek?
 
 Hint 1 :
 How can you view the information about the picture?
 
 Hint 2 :
 If something isn't in the expected form, maybe it deserves attention?
+
+# Solution
